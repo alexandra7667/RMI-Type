@@ -4,7 +4,7 @@
  * @author Alexandra Härnström
  * @version 1
  */
-package com.example.rmiclient_3_3_1;
+package com.example.rmiclient;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;

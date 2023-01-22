@@ -6,7 +6,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/18.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.rmiclient_3_3_1.Controller">
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/18.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.rmiclient.Controller">
 <children>
     <Label layoutX="115.0" layoutY="225.0" text="Server address:" />
     <TextField fx:id="textFieldAddress" layoutX="211.0" layoutY="220.0" />

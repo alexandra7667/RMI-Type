@@ -6,7 +6,7 @@
  * @version 1
  */
 
-package com.example.rmiclient_3_3_1;
+package com.example.rmiclient;
 
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
